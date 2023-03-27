@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jsonfavoritos/static/css/main.8b1f7a7f.css",
+    "main.js": "/jsonfavoritos/static/js/main.b4838b40.js",
+    "index.html": "/jsonfavoritos/index.html",
+    "main.8b1f7a7f.css.map": "/jsonfavoritos/static/css/main.8b1f7a7f.css.map",
+    "main.b4838b40.js.map": "/jsonfavoritos/static/js/main.b4838b40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b1f7a7f.css",
+    "static/js/main.b4838b40.js"
+  ]
+}
